@@ -6,7 +6,7 @@ I’m a dedicated **Cybersecurity Analyst** specializing in **Security Operation
 
 ## 💼 Professional Summary
 
-🔐 **SOC Analyst (Intern)**  
+🔐 **SOC Analyst**  
 Monitor and analyze security events using SIEM tools such as Splunk and ELK  
 Perform threat detection, alert classification, and incident triage  
 Create dashboards, generate incident response reports, and document remediation steps  
