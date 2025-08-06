@@ -57,9 +57,9 @@ Contribute to open-source cybersecurity initiatives and threat intelligence rese
 
 ## 📫 Contact Me
 
-[LinkedIn](https://linkedin.com/in/ridwan-sulyman-b83b2b341)  
-[Email](mailto:rsulyman19@gmail.com)  
-[X](https://x.com/sulymanola1178?s=21)  
+📧 [Email Me](mailto:rsulyman19@gmail.com)  
+💼 [Connect on LinkedIn](https://linkedin.com/in/ridwan-sulyman-b83b2b341)  
+🐦 [Follow on X (formerly Twitter)](https://x.com/sulymanola1178?s=21)
 
 ---
 
